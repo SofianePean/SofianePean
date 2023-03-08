@@ -7,9 +7,9 @@
 
 - 💬 Ask me about **React, React native, Nuxt**
 
-- ⚡ Fun fact **I love cats**
+- ⚡ Fun fact **I love cats**          
 
-- Others projects on my <a href="https://gitlab.com/Sofiane_Pean" target="blank"><i class="devicon-gitlab-plain-wordmark colored"></i></a>
+- Others projects on my <a href="https://gitlab.com/Sofiane_Pean" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" alt="https://gitlab.com/Sofiane_Pean" height="30" width="40" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
