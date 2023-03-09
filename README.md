@@ -7,7 +7,9 @@
 
 - 💬 Ask me about **React, React native, Nuxt**
 
-- ⚡ Fun fact **I love cats**          
+- mailbox How to reach me pean.sofiane@gmail.com
+
+- ⚡ Fun fact **I am very funny**          
           
 - Others projects on my <a href="https://gitlab.com/Sofiane_Pean" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="https://gitlab.com/Sofiane_Pean" height="30" width="40" /></a>
 
