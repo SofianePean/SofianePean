@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React, React native, Nuxt**
 
-- mailbox How to reach me pean.sofiane@gmail.com
+- 📫 How to reach me pean.sofiane@gmail.com
 
 - ⚡ Fun fact **I am very funny**          
           
