@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I am very funny**          
           
-- Others projects on my <a href="https://gitlab.com/Sofiane_Pean" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="https://gitlab.com/Sofiane_Pean" height="30" width="40" /></a>
+- My other projects on my <a href="https://gitlab.com/Sofiane_Pean" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="https://gitlab.com/Sofiane_Pean" height="30" width="40" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
