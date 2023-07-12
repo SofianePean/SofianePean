@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sofiane</h1>
-<h3 align="center">A passionate frontend developer from France</h3>
+<h3 align="center">A passionate frontend developer from Montreal</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sofianepean" alt="sofianepean" /></a> </p>
 
-- 🌱 I’m currently learning **Svelte and NestJS**
+- 🌱 I’m currently learning **Rust and NestJS**
 
-- 💬 Ask me about **React, React native, Nuxt**
+- 💬 Ask me about **React, React native, Next, Nuxt, Supabase**
 
 - 📫 How to reach me pean.sofiane@gmail.com
 
